@@ -36,6 +36,6 @@ Web Scraping of The Economist:
 ![webscrapet](https://user-images.githubusercontent.com/20925116/80413131-99126380-88ec-11ea-92ba-0f263fb3ff5e.PNG)
 
 ## Future of the Project:
-a much proper integration of model and NewsAggregator which could predict the virality of the news and display the link to the site on my website asap.
+A much proper integration of model and NewsAggregator which could predict the virality of the news and display the link to the site on my website asap.
 ## License
 The project is available as open source under the terms of the MIT License.
