@@ -18,12 +18,12 @@ The Output shows the accuracy of the made model.
 ### 2)Regression Model:
 This model uses Bayesian Linear Regression to solve the problem and give us the required accuracy of the model. 
 ### 3)News Aggregator(made using Django by scraping popular websites like Times of India etc):
-![webscrapet](https://user-images.githubusercontent.com/20925116/80413131-99126380-88ec-11ea-92ba-0f263fb3ff5e.PNG)
 
-
+![website](https://user-images.githubusercontent.com/20925116/80413115-944daf80-88ec-11ea-83ed-a0e037194788.PNG)
 This consists of a website:
-Web Scraping of Times Of India:
 
+Web Scraping of Times Of India:
+![webscrapet](https://user-images.githubusercontent.com/20925116/80413131-99126380-88ec-11ea-92ba-0f263fb3ff5e.PNG)
 
 Web Scraping Of Hindustan TImes:
 ![webscrapht](https://user-images.githubusercontent.com/20925116/80413137-9adc2700-88ec-11ea-90c6-c4be970a6f72.PNG)
