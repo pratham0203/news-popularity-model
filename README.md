@@ -20,7 +20,7 @@ It also shows the accuracy of this model.
 This model uses Bayesian Linear Regression to solve the problem and give us the required accuracy of the model. 
 ### 3)News Aggregator(made using Django by scraping popular websites like Times of India etc):
 
-I also made a website using Django that can be later on be used to project the popular news.
+I also made a website using Django that can be later used to project the popular news on a single site only.
 ![website](https://user-images.githubusercontent.com/20925116/80413115-944daf80-88ec-11ea-83ed-a0e037194788.PNG)
 
 
@@ -34,3 +34,8 @@ Web Scraping Of Hindustan TImes:
 
 Web Scraping of The Economist:
 ![webscrapet](https://user-images.githubusercontent.com/20925116/80413131-99126380-88ec-11ea-92ba-0f263fb3ff5e.PNG)
+
+## Future of the Project:
+a much proper integration of model and NewsAggregator which could predict the virality of the news and display the link to the site on my website asap.
+## License
+The project is available as open source under the terms of the MIT License.
