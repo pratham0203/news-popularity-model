@@ -16,4 +16,4 @@ The Output shows Essentials of the model using RandomForestClassifier after bein
 
 The Output shows the accuracy of the made model.
 ### 2)Regression Model 
-### 3)News Aggregator(made using Django by scraping popular websites like Times of India, Hindustan Times etc)
+### 3)News Aggregator(made using Django by scraping popular websites like Times of India etc)
