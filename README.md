@@ -10,7 +10,7 @@ This model has various algos like Logistics Regression,Random Forest Classifier,
 
 The Output shows Essentials of the model using RandomForestClassifier after being trained and tested.
 
-
+I also made a website using Django that can be later on be used to project the popular news.
 ![Capture1](https://user-images.githubusercontent.com/20925116/80414301-72552c80-88ee-11ea-8caa-4f6729c155dd.PNG)
 
 
@@ -20,14 +20,15 @@ This model uses Bayesian Linear Regression to solve the problem and give us the 
 ### 3)News Aggregator(made using Django by scraping popular websites like Times of India etc):
 
 ![website](https://user-images.githubusercontent.com/20925116/80413115-944daf80-88ec-11ea-83ed-a0e037194788.PNG)
-This consists of a website:
+
 
 Web Scraping of Times Of India:
-![webscrapet](https://user-images.githubusercontent.com/20925116/80413131-99126380-88ec-11ea-92ba-0f263fb3ff5e.PNG)
+![webscraptoi](https://user-images.githubusercontent.com/20925116/80413138-9b74bd80-88ec-11ea-86b9-c2931bb6e418.PNG)
+
 
 Web Scraping Of Hindustan TImes:
 ![webscrapht](https://user-images.githubusercontent.com/20925116/80413137-9adc2700-88ec-11ea-90c6-c4be970a6f72.PNG)
 
 
 Web Scraping of The Economist:
-![webscraptoi](https://user-images.githubusercontent.com/20925116/80413138-9b74bd80-88ec-11ea-86b9-c2931bb6e418.PNG)
+![webscrapet](https://user-images.githubusercontent.com/20925116/80413131-99126380-88ec-11ea-92ba-0f263fb3ff5e.PNG)
