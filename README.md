@@ -5,13 +5,15 @@ This project contains:
 This model has various algos like Logistics Regression,Random Forest Classifier,SVM but the one actively used is RandomForestClassifier due to its best results.
 
 
-![Capture](https://user-images.githubusercontent.com/20925116/80414298-708b6900-88ee-11ea-8dd9-c969dfb97668.PNG)
 The Output shows Essentials of the model using RandomForestClassifier after being trained and tested.
+![Capture](https://user-images.githubusercontent.com/20925116/80414298-708b6900-88ee-11ea-8dd9-c969dfb97668.PNG)
 
 
-![Capture1](https://user-images.githubusercontent.com/20925116/80414301-72552c80-88ee-11ea-8caa-4f6729c155dd.PNG)
+
 The Output shows the labels before and after standardization.
 It also shows the accuracy of this model.
+![Capture1](https://user-images.githubusercontent.com/20925116/80414301-72552c80-88ee-11ea-8caa-4f6729c155dd.PNG)
+
 
 .
 ### 2)Regression Model:
