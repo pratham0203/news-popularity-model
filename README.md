@@ -15,7 +15,6 @@ It also shows the accuracy of this model.
 ![Capture1](https://user-images.githubusercontent.com/20925116/80414301-72552c80-88ee-11ea-8caa-4f6729c155dd.PNG)
 
 
-.
 ### 2)Regression Model:
 This model uses Bayesian Linear Regression to solve the problem and give us the required accuracy of the model. 
 ### 3)News Aggregator(made using Django by scraping popular websites like Times of India etc):
