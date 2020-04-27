@@ -1,5 +1,5 @@
 # news-popularity-model
-## Contents of the Project
+## Contents of the Project:-
 This project contains: 
 ### 1)Classification Model:
 This model has various algos like Logistics Regression,Random Forest Classifier,SVM but the one actively used is RandomForestClassifier due to its best results.
