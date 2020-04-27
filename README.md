@@ -1,7 +1,7 @@
 # news-popularity-model
 ## Contents of the Project
 This project contains: 
-#### 1)Classification Model:
+### 1)Classification Model:
 This model has various algos like Logistics Regression,Random Forest Classifier,SVM but the one actively used is RandomForestClassifier due to its best results.
 
 
@@ -15,5 +15,5 @@ The Output shows Essentials of the model using RandomForestClassifier after bein
 
 
 The Output shows the accuracy of the made model.
-#### 2)Regression Model 
-##### 3)News Aggregator(made using Django by scraping popular websites like Times of India, Hindustan Times etc)
+### 2)Regression Model 
+### 3)News Aggregator(made using Django by scraping popular websites like Times of India, Hindustan Times etc)
