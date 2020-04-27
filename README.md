@@ -6,19 +6,19 @@ This model has various algos like Logistics Regression,Random Forest Classifier,
 
 
 ![Capture](https://user-images.githubusercontent.com/20925116/80414298-708b6900-88ee-11ea-8dd9-c969dfb97668.PNG)
-
-
 The Output shows Essentials of the model using RandomForestClassifier after being trained and tested.
 
-I also made a website using Django that can be later on be used to project the popular news.
+
 ![Capture1](https://user-images.githubusercontent.com/20925116/80414301-72552c80-88ee-11ea-8caa-4f6729c155dd.PNG)
+The Output shows the labels before and after standardization.
+It also shows the accuracy of this model.
 
-
-The Output shows the accuracy of the made model.
+.
 ### 2)Regression Model:
 This model uses Bayesian Linear Regression to solve the problem and give us the required accuracy of the model. 
 ### 3)News Aggregator(made using Django by scraping popular websites like Times of India etc):
 
+I also made a website using Django that can be later on be used to project the popular news.
 ![website](https://user-images.githubusercontent.com/20925116/80413115-944daf80-88ec-11ea-83ed-a0e037194788.PNG)
 
 
