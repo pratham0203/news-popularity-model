@@ -38,6 +38,9 @@ Web Scraping of The Economist:
 Here using Regression model that uses a dataset Newspopularity.csv to train itself and then check the virality of the scraped data.The virality is checked on the basis of various information that has been scraped from Times of India website.The text includes these data for evaluation:
 
 ![Capture3](https://user-images.githubusercontent.com/20925116/80467515-87b47000-895b-11ea-99d0-a0c82f419391.PNG)
+The dataset choosen for evaluation.
+
+
 
 
 
