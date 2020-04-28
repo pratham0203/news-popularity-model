@@ -34,13 +34,25 @@ Web Scraping Of Hindustan TImes:
 Web Scraping of The Economist:
 ![webscrapet](https://user-images.githubusercontent.com/20925116/80413131-99126380-88ec-11ea-92ba-0f263fb3ff5e.PNG)
 
-### 3)Integrated scraped data and ML model to predict virality:
-Here using Regression model that uses a dataset Newspopularity.csv to train itself and then check the virality of the scraped data.The virality is checked on the basis of various information that has been scraped from Times of India website.The text includes these data for evaluation:
+### 3)Integrated scraped data and ML model to predict virality(Main Project):
+Here using Regression model that uses a dataset OnlineNewsPopularityClassification.csv to train itself and then check the virality of the scraped data.The virality is checked on the basis of various information that has been scraped from Times of India website.
 
+The file includes these data for evaluation:
 ![Capture3](https://user-images.githubusercontent.com/20925116/80467515-87b47000-895b-11ea-99d0-a0c82f419391.PNG)
-The dataset choosen for evaluation.
+
+Later on after using sentiment analysis and weighing the relevant words with the ones in popular news a model is created.
 
 
+
+For this the data like number of tokens, number of shares etc are used from the respected website.
+![Capture4](https://user-images.githubusercontent.com/20925116/80468340-ae26db00-895c-11ea-8237-5048285ab990.PNG)
+
+Later on the virality or popularity score is given:
+![Capture55](https://user-images.githubusercontent.com/20925116/80468647-12499f00-895d-11ea-830e-39c8bbebb568.PNG)
+
+
+The score lies between 0 and 1(0 corresponding to not popular news and 1 corresponds for popular news)
+![Capture55](https://user-images.githubusercontent.com/20925116/80468647-12499f00-895d-11ea-830e-39c8bbebb568.PNG)
 
 
 
