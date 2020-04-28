@@ -34,6 +34,13 @@ Web Scraping Of Hindustan TImes:
 Web Scraping of The Economist:
 ![webscrapet](https://user-images.githubusercontent.com/20925116/80413131-99126380-88ec-11ea-92ba-0f263fb3ff5e.PNG)
 
+### 3)Integrated scraped data and ML model to predict virality:
+Here using Regression model that uses a dataset Newspopularity.csv to train itself and then check the virality of the scraped data.The virality is checked on the basis of various information that has been scraped from Times of India website.The text includes these data for evaluation:
+
+![Capture3](https://user-images.githubusercontent.com/20925116/80467515-87b47000-895b-11ea-99d0-a0c82f419391.PNG)
+
+
+
 ## Future of the Project:
 A much proper integration of model and NewsAggregator which could predict the virality of the news and display the link to the site on my website asap.
 ## License
