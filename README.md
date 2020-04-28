@@ -52,8 +52,6 @@ Later on the virality or popularity score is given:
 
 
 The score lies between 0 and 1(0 corresponding to not popular news and 1 corresponds for popular news)
-![Capture55](https://user-images.githubusercontent.com/20925116/80468647-12499f00-895d-11ea-830e-39c8bbebb568.PNG)
-
 
 
 ## Future of the Project:
